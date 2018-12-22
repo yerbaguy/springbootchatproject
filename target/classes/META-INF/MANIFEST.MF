@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootLawProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bartosz
+Implementation-Vendor-Id: com.springbootproject.lawproject
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootLawProject
+Created-By: Maven Integration for Eclipse
+
